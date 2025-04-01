@@ -1,0 +1,14 @@
+{
+  "name": "sid_m2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "1.2.27",
+  "devDependencies": {
+    "@cubejs-backend/duckdb-driver": "^1.2.27",
+    "@cubejs-backend/server": "^1.2.27"
+  }
+}

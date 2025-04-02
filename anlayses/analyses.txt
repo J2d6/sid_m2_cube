@@ -1,0 +1,62 @@
+A. Analyse RFM (Récence, Fréquence, Montant)
+Questions :
+
+Quels clients achètent souvent (Fréquence) mais dépensent peu (Montant) ? → Cible pour les programmes de points.
+
+Quels clients ont un CA élevé mais n’ont pas acheté récemment (Récence) ? → Relance avec offres VIP.
+
+Interprétation :
+
+Si les clients "dormants" ont un historique de réponse aux points, renforcez le programme de récompenses.
+
+Si les VIP ont un CA stable mais peu de répétition, proposez des avantages exclusifs (ex : accès early).
+
+
+
+
+
+B. Impact des Canaux d’Acquisition
+Questions :
+
+Les clients acquis via parrainage sont-ils plus fidèles que ceux venus des marketplaces ?
+
+Quel canal génère le taux de rétention le plus élevé ?
+
+Interprétation :
+
+Si le parrainage a un taux de rétention > 30%, investissez dans des récompenses de parrainage.
+
+Si les clients "Marketplace" désertent après 1 achat, créez un parcours fidélisation dédié.
+
+
+
+
+
+C. Performance des Produits par Segment
+Questions :
+
+Quels produits sont achetés en répétition par les VIP ? → Offres bundles.
+
+Les nouveaux clients achètent-ils des produits à faible marge ? → Incitez-les à monter en gamme.
+
+Interprétation :
+
+Si les VIP achètent souvent des produits tech, créez un programme "Early Access" pour les nouveautés.
+
+Si les nouveaux clients achètent des produits basiques, proposez un bonus de points sur les gammes supérieures.
+
+
+
+
+D. Efficacité des Actions Passées
+Questions :
+
+Les clients utilisant leurs points fidélité ont-ils un panier moyen plus élevé ?
+
+Les emails personnalisés génèrent-ils plus de répétition que les notifications push ?
+
+Interprétation :
+
+Si les points boostent le CA de +15%, augmentez les seuils de récompenses.
+
+Si les emails ont un taux d’ouverture > 25%, personnalisez-les davantage.
